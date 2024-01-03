@@ -1,0 +1,17 @@
+{
+  "name": "melody-bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot made with Discord.js for the IndoMusikGram Discord Server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.2"
+  }
+}
